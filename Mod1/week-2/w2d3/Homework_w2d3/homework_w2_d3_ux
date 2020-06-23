@@ -1,0 +1,16 @@
+console.log
+
+/* a site that I use all the time that has good UX is both Facebook and Linked In, both took a small time to learn and were intuitive overall*/
+
+
+//create the game tic-tac-toe- what are some stories that we want to make sure we cover?
+
+The game of tic-tac-toe is as old as the day, fun, and simple.  Through a web application I would want to mimic those charictaristics//
+
+/* the grid of tic-tac-toe will be the familiar two crosses down, two lines across- the pattern will be wood, and the font will be 
+'old western'.  There will be the option of picking a circle <red> or picking a square <blue>.
+
+the first player will pick either circle or square and proceed to make the first move (let's say the center); the second player takes their turn
+and the players  alternate from first until last until a person has three (3) of their 'x' or 'o' across.
+The winner then gets a point on the bottom of their screen and proceeds to pick either first space in the next round or let the 
+other player go first */

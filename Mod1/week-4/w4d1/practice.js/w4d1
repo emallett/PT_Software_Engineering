@@ -1,0 +1,24 @@
+/create a funtion that takes a parameter and logs it
+
+const getNames = (name) =>
+
+{
+    console.log(name);
+    
+    }
+
+    getNames('Beth')
+
+    //Create a second function that logs 'hi'
+
+    const secondFunction = () =>
+    {
+        console.log('Hi');
+
+    }
+
+secondFunction();
+
+Invoke the first function, passing in the second funtion as a parameter
+getNames(secondFunctions);
+    console.log(secondFunctions)
